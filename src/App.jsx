@@ -13,10 +13,10 @@ function App() {
                 outerAlpha={0}
                 hasBlendMode={true}
                 innerStyle={{
-                    backgroundColor: "orange",
+                    backgroundColor: "#EA580C",
                 }}
                 outerStyle={{
-                    border: "3px solid orange",
+                    border: "1px solid orange",
                 }}
             />
             <Header />
